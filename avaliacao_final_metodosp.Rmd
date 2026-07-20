@@ -5,6 +5,7 @@ author: "Melyssa da Mata"
 date: "2026-07-20"
 output: pdf_document
 ---
+*Este arquivo possui script no github: https://github.com/melbortuluzi/avalia-o_final_metodosp *
 
 # Introdução
 Esta avaliação usa um artigo recente de Ciência Política em português, com dados disponíveis, para
